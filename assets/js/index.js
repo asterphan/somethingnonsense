@@ -1,6 +1,6 @@
 let today = new Date();
-let bd = new Date('September 17, 1999');
-// let bd = new Date();
+// let bd = new Date('September 17, 1999');
+let bd = new Date();
 
 $(document).ready(function () {
     $('.p3-p iframe').css('display', 'none');
